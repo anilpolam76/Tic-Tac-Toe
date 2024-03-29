@@ -13,7 +13,7 @@
 <p>The game automatically detects wins or ties and notifies the players.</p>
 <p>Click "Play Again" to start a new game.</p>
 <h1>Technologies Used</h1>
-HTML
+HTML<br>
 CSS
 JavaScript
 <p>Preview</h1>
